@@ -5,7 +5,7 @@ Aktuelle Clients:0 / Unbegrenzt
 
 Beschreibung:
 
-Allgemeiner Bedarf für unsere Gildenhalle:(Stand: 12.02.18, 02 Uhr):
+Allgemeiner Bedarf für unsere Gildenhalle:(Stand: 13.02.18, 04 Uhr):
 
 Aktuell benötigt wird:
 
@@ -169,4 +169,3 @@ Nicht vergessen:
 Um ein paar Mats zu sparen kann man den Gildenbuff von der Schenke (20% auf krit. Handwerk) und den Handwerksverstärker (50% auf krit. Handwerk).
 
 Damit kann man auf max. 70% krit. Handwerk kommen (70% Chance, Bonus- Handwerkserfahrung zu erhalten) und mit Glück Materialien einsparen.
-
