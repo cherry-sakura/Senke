@@ -5,7 +5,7 @@ Aktuelle Clients:0 / Unbegrenzt
 
 Beschreibung:
 
-Allgemeiner Bedarf für unsere Gildenhalle: (Stand: 03.02.18, 22 Uhr):
+Allgemeiner Bedarf für unsere Gildenhalle: (Stand: 07.02.18, 19 Uhr):
 
 Aktuell benötigt wird:
 
