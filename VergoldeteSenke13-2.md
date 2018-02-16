@@ -1,22 +1,22 @@
  Vergoldete Senke [SYN] Schreiberbedarf
 Audio Codec:Opus Voice
 Eigenschaften:Permanent
-Aktuelle Clients:0 / Unbegrenzt
+Aktuelle Clients:2 / Unbegrenzt
 
 Beschreibung:
 
-Allgemeiner Bedarf für unsere Gildenhalle:(Stand: 16.02.18, 02 Uhr):
+Allgemeiner Bedarf für unsere Gildenhalle:(Stand: 16.02.18, 04 Uhr):
 
 Aktuell benötigt wird:
 
 
 Nichts
 
-Momentan werden keine weiteren Gegenstände benötigt! Sollten in Zukunft durch Updates weitere Upgrades verfügbar werden, freut sich die Gilde über jeden, der etwas reinwirft.
+Momentan werden keine weiteren Gegenstände benötigt! Sollten in Zukunft durch Game-Updates weitere Upgrades verfügbar sein, freut sich die Gilde über jeden, der etwas reinwirft.
 
 Legende:
 vorhanden
-nicht vorhanden/zuwenig vorhanden
+nicht vorhanden/zu wenig vorhanden
 
 
 
@@ -24,17 +24,17 @@ nicht vorhanden/zuwenig vorhanden
 Allgemeiner Schreiberbedarf:
 
 
-Resonierende Fragmente
-Holz, Leder, Metall und Stoffe aller Stufen(T1-T6, inkl. Silber-/Golderz)
-Farbpigmente(alle)
+Resonierende Späne
+Holz, Leder, Metall und Stoffe aller Stufen (T1-T6, inkl. Silber-/Golderz)
+Farbpigmente (alle)
 Holzkerne (alle)
 Quarzkristalle
-Sand und Staub(T1-T6)
+Sand und Staub (T1-T6)
 Überlegene Runen der Hauptstädte
-Gold €€€(Bargeld)
+Gold €€€ (Bargeld)
 
 
-Path of Fire Dekoration:
+Path of Fire Dekorationen:
 
 Augen Kormirs
 Ley-infundierter Sand
@@ -48,9 +48,9 @@ Strategische Verteidigungskarte der Nebel
 
 
 Legende:
-   genügend vorhandend
+   genügend vorhanden
    ausreichend vorhanden
-   zuwenig/garnicht vorhanden
+   zu wenig/gar nicht vorhanden
 
 
 Derzeitige Schreiberprojekte:
@@ -63,22 +63,22 @@ Gorseval (fertig)
 Sabetha (fertig)
 Festenkonstrukt (fertig)
 
-Faultierion
-Mathias
-Belagerung der Feste
-Xera
-Cairn der Unbeugsame
-Mursaat-Aufseher
-Samarog
-Deimos
-Zerschmetterer
-Tequatl
+Faultierion (Silber)
+Mathias (Silber)
+Belagerung der Feste(Silber)
+Xera (Bronze)
+Cairn der Unbeugsame (Bronze)
+Mursaat-Aufseher (Bronze)
+Samarog (Bronze)
+Deimos (Silber)
+Zerschmetterer (Bronze)
+Tequat (Bronze)
 Dreifacher Ärger 
-Chak-Potentat
-Mordremoth
-Desmina
-Fluss der Seelen
-Statuen (Halle der Ketten)
+Chak-Potentat (Bronze)
+Mordremoth (Bronze)
+Desmina (Bronze)
+Fluss der Seelen (Bronze)
+Statuen des Grenth (Bronze)
 Dhuuuum
 
 
@@ -94,7 +94,7 @@ Materialien:
  - 560 Haufen rauer Sand
  - (...)
 
-(Nur Hauptzutaten, vollständige Liste kann z.b. bei GW 2 Efficency eingesehen werden)
+(Nur Hauptzutaten, vollständige Liste kann z.B. bei GW2Efficiency eingesehen werden)
 
 Statuen der 6 Menschengötter:
 
@@ -110,16 +110,18 @@ Melandru
 
 Materialien:
 - 1x das Antlitz des Gottes (Orr-Karten, Tempel Verteidigungs-/Rückeroberungsevent)
-- 24x Felsen (Gildendekohändler 24s je)
-- 1x Meisterschreiberkit (Schwarz/Weiß Pigmente, T6 Holz, Stoff und Metall)
-- 30x Orichalcummeisel (1 Oribarren, 4 T6 Leder)
+- 24x Felsen (Gildendekohändler, 24s das Stück)
+- 1x Meisterschreiberkit (Schwarze/Weiße Pigmente, T6 Holz, Stoff und Metall)
+- 30x Orichalcummeisel (1x Orichalcumbarren, 4x T6 Leder)
 
 
 Andere Dekorationen oder Schreiberstücke:
 
-Selbstverständlich stellen unsere Schreiber auch (fast) alle anderen Dekos und WvW-Schreiberstücke her, einfach anfragen; es müssen nur die Mats gestellt werden. Mit Path of Fire wurden einige Materialien eingefügt, die accountgebunden sind und/oder max. 1x täglich hergestellt werden können. Für diese Materialien muss separat eine Lösung gefunden werden (z.B. durch bereitstellen der Grundmaterialien oder anderweitigen Ausgleich).
+Selbstverständlich stellen unsere Schreiber auch (fast) alle anderen Dekos und WvW-Schreiberstücke her, einfach bei der jeweiligen Person anfragen; es müssen nur die Mats bereitgestellt werden. 
+Mit Path of Fire wurden einige Materialien eingeführt, die accountgebunden sind und/oder max. 1x täglich hergestellt werden können; für diese Materialien muss separat eine Lösung gefunden werden (z.B. durch Bereitstellen der Grundmaterialien oder anderweitigem Ausgleich).
 
 Unsere Schreiber sind:
+
 
 
 Kieran V Niflheim (400)
@@ -127,15 +129,17 @@ Taseen Winterblut (400)
 Almdudler (400)
 
 
-Desweiteren gibt es zu den meisten Festilchkeiten in GW ebenfalls Dekorationen. Meist handelt es sich dabei um Grundzutaten die beim Gildendekorationshändler im Tausch gegen bestimmte Festivalgegenstände erhältlich sind. Solltet ihr Interesse an diesen Dekorationen haben, sprecht euch mit unseren Schreibern ab. Solltet ihr kein Interesse an den Dekorationen haben, habt aber Festivalgegenstände übrig, könnt ihr diese natürlich trotzdem gerne beim Gildendekorationshändler eintauschen und somit Ressourcen für alle in der Gilde bereitstellen.
+
+Des Weiteren gibt es zu den meisten Festlichkeiten in GW2 ebenfalls Dekorationen zu kaufen. Meist handelt es sich dabei um Grundzutaten, die beim Gildendekorationshändler im Tausch gegen bestimmte Festivalgegenstände erhältlich sind. Solltet ihr Interesse an diesen Dekorationen haben, sprecht euch mit unseren Schreibern ab. 
+Solltet ihr kein Interesse an den Dekorationen haben, habt aber Festivalgegenstände übrig, könnt ihr diese natürlich trotzdem gerne beim Gildendekorationshändler eintauschen und somit Ressourcen für alle in der Gilde bereitstellen. Das Eintauschen ist das ganze Jahr über möglich, ob das Festival grade läuft oder nicht.
 
 Feste mit Dekorationen: 
 
 
 Halloween (Kürbis)
-Wintertag(Schneehaufen)
-Mondneujahr(Rote Laterne)
-Super Adventure Box(Super-Wolke)
+Wintertag (Schneehaufen)
+Mondneujahr (Rote Laterne)
+Super Adventure Box (Super-Wolke)
 
 
 Allgemeine Preisliste der Dekos: 
@@ -143,29 +147,30 @@ Allgemeine Preisliste der Dekos:
 Für jedes Schreiberstück einzeln:
 
 
-GW 2 Efficency
+GW2Efficiency
 
 
-Um mit Hilfe der deutschen Namen zu suchen, einfach unter dem Logo auf die Deutschland Flagge klicken.
+Um die Begriffe auf Deutsch zu suchen, einfach unter dem GW2-Efficiency Logo auf die Deutschlandflagge klicken und somit die Website auf Deutsch stellen.
 
-Gallerie mit allen Schreiberstücken:
+Galerie mit allen Schreiberstücken:
 
 
-Gallerie
+Galerie
 
-Kategorie unter "List of decorations" auswählen führt zu einer Liste aller Schreiberstücke inkl. Gallerie weiter unten.
+Kategorie unter "List of decorations" auswählen führt zu einer Liste aller Schreiberstücke inkl. Galerie weiter unten.
 
 Selber Schreibern? Hier der Guide:
-(Schreibern allgemein ist sehr Gold- und  Materialaufwendig)
+(Schreibern ist allgemein sehr gold- und materialaufwendig)
 
 
 Englisch     Deutsch
 
 
-Die Website berechnet immer die günstigste Variante. Vorsicht! Beim Aktualisieren der Seite können sich die Einkaufsliste und/oder die herzustellenden Gegenstände ändern.
+Die Website berechnet immer die günstigste Variante.
+Vorsicht! Beim Aktualisieren der Seite können sich die Einkaufsliste und/oder die herzustellenden Gegenstände ändern.
 
 Nicht vergessen:
 
-Um ein paar Mats zu sparen kann man den Gildenbuff von der Schenke (20% auf krit. Handwerk) und den Handwerksverstärker (50% auf krit. Handwerk).
+Um ein paar Mats zu sparen, kann man sichden Gildenbuff aus der Schenke (20% auf krit. Handwerk) holen und/oder einen Handwerksverstärker (50% auf krit. Handwerk) verwenden.
 
-Damit kann man auf max. 70% krit. Handwerk kommen (70% Chance, Bonus- Handwerkserfahrung zu erhalten) und mit Glück Materialien einsparen.
+Damit kann man auf max. 70% krit. Handwerk kommen (70% Chance, Bonus-Handwerkserfahrung zu erhalten) und damit theoretisch Materialien einsparen.
