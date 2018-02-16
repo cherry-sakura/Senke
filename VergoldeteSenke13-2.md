@@ -1,11 +1,11 @@
-Vergoldete Senke [SYN] Schreiberbedarf
+ Vergoldete Senke [SYN] Schreiberbedarf
 Audio Codec:Opus Voice
 Eigenschaften:Permanent
 Aktuelle Clients:0 / Unbegrenzt
 
 Beschreibung:
 
-Allgemeiner Bedarf für unsere Gildenhalle:(Stand: 13.02.18, 04 Uhr):
+Allgemeiner Bedarf für unsere Gildenhalle:(Stand: 16.02.18, 00 Uhr):
 
 Aktuell benötigt wird:
 
