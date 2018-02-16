@@ -171,6 +171,6 @@ Vorsicht! Beim Aktualisieren der Seite können sich die Einkaufsliste und/oder d
 
 Nicht vergessen:
 
-Um ein paar Mats zu sparen, kann man sichden Gildenbuff aus der Schenke (20% auf krit. Handwerk) holen und/oder einen Handwerksverstärker (50% auf krit. Handwerk) verwenden.
+Um ein paar Mats zu sparen, kann man sich den Gildenbuff aus der Schenke (20% auf krit. Handwerk) holen und/oder einen Handwerksverstärker (50% auf krit. Handwerk) verwenden.
 
-Damit kann man auf max. 70% krit. Handwerk kommen (70% Chance, Bonus-Handwerkserfahrung zu erhalten) und damit theoretisch Materialien einsparen.
+So kann man auf max. 70% krit. Handwerk kommen (70% Chance, Bonus-Handwerkserfahrung zu erhalten) und damit theoretisch Materialien einsparen.
