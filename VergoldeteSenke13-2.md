@@ -5,7 +5,7 @@ Aktuelle Clients:0 / Unbegrenzt
 
 Beschreibung:
 
-Allgemeiner Bedarf für unsere Gildenhalle:(Stand: 16.02.18, 00 Uhr):
+Allgemeiner Bedarf für unsere Gildenhalle:(Stand: 16.02.18, 02 Uhr):
 
 Aktuell benötigt wird:
 
@@ -156,13 +156,13 @@ Gallerie
 Kategorie unter "List of decorations" auswählen führt zu einer Liste aller Schreiberstücke inkl. Gallerie weiter unten.
 
 Selber Schreibern? Hier der Guide:
-(Schreibern allgemein ist sehr gold- und  materialaufwendig)
+(Schreibern allgemein ist sehr Gold- und  Materialaufwendig)
 
 
 Englisch     Deutsch
 
 
-Die Website berechnet immer die günstigste Variante. Vorsicht! Beim Aktualisieren der Seite kann sich die Einkaufsliste und/oder die herzustellenden Gegenstände ändern.
+Die Website berechnet immer die günstigste Variante. Vorsicht! Beim Aktualisieren der Seite können sich die Einkaufsliste und/oder die herzustellenden Gegenstände ändern.
 
 Nicht vergessen:
 
