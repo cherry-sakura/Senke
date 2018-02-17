@@ -1,11 +1,11 @@
 Vergoldete Senke [SYN] Schreiberbedarf
 Audio Codec:Opus Voice
 Eigenschaften:Permanent
-Aktuelle Clients:2 / Unbegrenzt
+Aktuelle Clients:0 / Unbegrenzt
 
 Beschreibung:
 
-Allgemeiner Bedarf für unsere Gildenhalle:(Stand: 17.02.18, 06 Uhr):
+Allgemeiner Bedarf für unsere Gildenhalle:(Stand: 17.02.18, 20 Uhr):
 
 Aktuell benötigt wird:
 
@@ -138,6 +138,7 @@ Feste mit Dekorationen:
 
 Halloween (Kürbis)
 Wintertag (Schneehaufen)
+Wintertag(Schneehügel)
 Mondneujahr (Rote Laterne)
 Super Adventure Box (Super-Wolke)
 
